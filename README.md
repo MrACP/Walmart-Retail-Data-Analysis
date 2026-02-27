@@ -1,4 +1,4 @@
-# 🛒 Walmart Retail Data Analysis (Tableau)
+# 🛒 Walmart Retail Data Analysis
 
 A data analysis project focused on exploratory analysis, profitability modeling, and regional performance evaluation using Walmart retail transaction data. The project leverages Tableau to build an interactive dashboard that highlights business-critical KPIs and profitability drivers.
 
@@ -60,7 +60,7 @@ Performed the following steps before visualization:
 
 ---
 
-## 🔗 Live Dashboard
+## 🔗 Live Interactive Dashboard
 
 👉 https://public.tableau.com/app/profile/akshayparulekar/viz/WalmartRetailDataAnalysis_16496912054700/WallmartRetailDataAnalysis
 
