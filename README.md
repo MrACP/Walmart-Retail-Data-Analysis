@@ -56,7 +56,7 @@ Performed the following steps before visualization:
 
 ## 📊 Dashboard Preview
 
-![Walmart Retail Data Analysis Dashboard](images/WallmartRetailDataAnalysis.png)
+![Walmart Retail Data Analysis Dashboard](images/WalmartRetailDataAnalysis.png)
 
 ---
 
